@@ -22,7 +22,7 @@
 
 <p align="center"><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsyntax&show_icons=true&locale=en&layout=compact" alt="samsyntax" /></p>
 
-<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=samsyntax&show_icons=true&locale=en" alt="samsyntax" /></p>
+<p align="center"><img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=samsyntax&show_icons=true&locale=en" alt="samsyntax" /></p>
 
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samsyntax&" alt="samsyntax" /></p>
+<p align="center"><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=samsyntax&" alt="samsyntax" /></p>
 
