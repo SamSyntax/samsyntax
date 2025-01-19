@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsyntax&label=Profile%20views&color=0e75b6&style=flat" alt="samsyntax" /> </p>
 
 
-- 🔭 I’m currently working on **E-commerce t-shirt generator**
+- 🔭 Trying out some new technologies
 
-- 🌱 I’m currently exploring **Nodejs with mongodb**
+- 🌱 Exploring programming languages
 
-- 💬 Ask me about **Nextjs, JavaScript, React, Nodejs**
+- 💬 Soydev, but diving into low level as well
 
 - 📫 How to reach me **klfracc@gmail.com**
 
@@ -24,5 +24,4 @@
 
 <p align="center"><img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=samsyntax&show_icons=true&locale=en" alt="samsyntax" /></p>
 
-<p align="center"><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=samsyntax&" alt="samsyntax" /></p>
 
