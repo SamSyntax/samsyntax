@@ -1,6 +1,6 @@
 ![MasterHead](https://wallpapercave.com/wp/wp7080156.jpg)
 <h1 align="center">Oi 👋, I'm Sam</h1>
-<h3 align="center">A doofus pretending to know how to code</h3>
+<h3 align="center">An idiot pretending to know how to code</h3>
 <img align="right" width="400" src="https://i.imgur.com/WtVOjr6.gif" align="center" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsyntax&label=Profile%20views&color=0e75b6&style=flat" alt="samsyntax" /> </p>
